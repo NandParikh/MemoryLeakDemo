@@ -1,3 +1,8 @@
+---
+What is Memory Leak?
+---
+- Memory leaks happen when memory is allocated but never freed, typically because of strong reference cycles.
+
 <img width="1376" height="890" alt="Screenshot 2025-11-26 at 3 00 14 PM" src="https://github.com/user-attachments/assets/fcd0a9c9-1adb-4e68-bbf0-5a5a3f75aa1e" />
 
 - To test it -
